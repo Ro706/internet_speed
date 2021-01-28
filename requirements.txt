@@ -1,0 +1,4 @@
+psutil
+speedtest
+tabulate
+pyfiglet
